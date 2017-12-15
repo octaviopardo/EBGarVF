@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="60" maximum="402" minimum="60" name="width" tag="wdth" />
+        <axis default="650" maximum="950" minimum="650" name="ytransUC" tag="YTUC" />
+        <axis default="650" maximum="850" minimum="650" name="ytransparentasc" tag="YTAS" />
+        <axis default="42" maximum="402" minimum="42" name="xtransparent" tag="XTRA" />
+        <axis default="5" maximum="500" minimum="5" name="xopaque" tag="XOPQ" />
+        <axis default="445" maximum="600" minimum="445" name="ytranslc" tag="YTLC" />
+        <axis default="38" maximum="250" minimum="38" name="weight" tag="wght" />
+    </axes>
+    <sources>
+        <source familyname="EBGaramondVF" filename="EBGaramondVF-GradeMax.ufo" stylename="GradeMax">
+            <location>
+                <dimension name="width" xvalue="402" />
+                <dimension name="ytransUC" xvalue="750" />
+                <dimension name="ytransparentasc" xvalue="750" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="ytranslc" xvalue="500" />
+                <dimension name="weight" xvalue="250" />
+            </location>
+        </source>
+        <source familyname="EBGaramondVF" filename="EBGaramondVF-GradeMin.ufo" stylename="GradeMin">
+            <location>
+                <dimension name="width" xvalue="402" />
+                <dimension name="ytransUC" xvalue="750" />
+                <dimension name="ytransparentasc" xvalue="750" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="ytranslc" xvalue="500" />
+                <dimension name="weight" xvalue="38" />
+            </location>
+        </source>
+        <source familyname="EBGaramondVF" filename="EBGaramondVF-ytransparentascMax.ufo" stylename="ytransparentascMax">
+            <location>
+                <dimension name="width" xvalue="402" />
+                <dimension name="ytransUC" xvalue="750" />
+                <dimension name="ytransparentasc" xvalue="850" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="ytranslc" xvalue="500" />
+                <dimension name="weight" xvalue="38" />
+            </location>
+        </source>
+        <source familyname="EBGaramondVF" filename="EBGaramondVF-ytransparentascMin.ufo" stylename="ytransparentascMin">
+            <location>
+                <dimension name="width" xvalue="402" />
+                <dimension name="ytransUC" xvalue="750" />
+                <dimension name="ytransparentasc" xvalue="650" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="ytranslc" xvalue="500" />
+                <dimension name="weight" xvalue="38" />
+            </location>
+        </source>
+        <source familyname="EB Garamond VF" filename="EBGaramondVF-Compressed_Regular.ufo" stylename="Compressed_Regular">
+            <location>
+                <dimension name="width" xvalue="60" />
+                <dimension name="ytransUC" xvalue="750" />
+                <dimension name="ytransparentasc" xvalue="750" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="ytranslc" xvalue="500" />
+                <dimension name="weight" xvalue="38" />
+            </location>
+        </source>
+        <source familyname="EBGaramondVF" filename="EBGaramondVF-xtransparentMin.ufo" stylename="xtransparentMin">
+            <location>
+                <dimension name="width" xvalue="402" />
+                <dimension name="ytransUC" xvalue="750" />
+                <dimension name="ytransparentasc" xvalue="750" />
+                <dimension name="xtransparent" xvalue="42" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="ytranslc" xvalue="500" />
+                <dimension name="weight" xvalue="38" />
+            </location>
+        </source>
+        <source familyname="EBGaramondVF" filename="EBGaramondVF-ytransparentUCMax.ufo" stylename="ytransparentUCMax">
+            <location>
+                <dimension name="width" xvalue="402" />
+                <dimension name="ytransUC" xvalue="950" />
+                <dimension name="ytransparentasc" xvalue="750" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="ytranslc" xvalue="500" />
+                <dimension name="weight" xvalue="38" />
+            </location>
+        </source>
+        <source familyname="EBGaramondVF" filename="EBGaramondVF-ytransparentUCMin.ufo" stylename="ytransparentUCMin">
+            <location>
+                <dimension name="width" xvalue="402" />
+                <dimension name="ytransUC" xvalue="650" />
+                <dimension name="ytransparentasc" xvalue="750" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="ytranslc" xvalue="500" />
+                <dimension name="weight" xvalue="38" />
+            </location>
+        </source>
+        <source familyname="EBGaramondVF" filename="EBGaramondVF-ytransparentlcMax.ufo" stylename="ytransparentlcMax">
+            <location>
+                <dimension name="width" xvalue="402" />
+                <dimension name="ytransUC" xvalue="750" />
+                <dimension name="ytransparentasc" xvalue="750" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="ytranslc" xvalue="600" />
+                <dimension name="weight" xvalue="38" />
+            </location>
+        </source>
+        <source familyname="EBGaramondVF" filename="EBGaramondVF-ytransparentlcMin.ufo" stylename="ytransparentlcMin">
+            <location>
+                <dimension name="width" xvalue="402" />
+                <dimension name="ytransUC" xvalue="750" />
+                <dimension name="ytransparentasc" xvalue="750" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="ytranslc" xvalue="445" />
+                <dimension name="weight" xvalue="38" />
+            </location>
+        </source>
+        <source familyname="EBGaramondVF" filename="EBGaramondVF-xopaqueMax.ufo" stylename="xopaqueMax">
+            <location>
+                <dimension name="width" xvalue="402" />
+                <dimension name="ytransUC" xvalue="750" />
+                <dimension name="ytransparentasc" xvalue="750" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="xopaque" xvalue="500" />
+                <dimension name="ytranslc" xvalue="500" />
+                <dimension name="weight" xvalue="38" />
+            </location>
+        </source>
+        <source familyname="EBGaramondVF" filename="EBGaramondVF-xopaqueMin.ufo" stylename="xopaqueMin">
+            <location>
+                <dimension name="width" xvalue="402" />
+                <dimension name="ytransUC" xvalue="750" />
+                <dimension name="ytransparentasc" xvalue="750" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="xopaque" xvalue="5" />
+                <dimension name="ytranslc" xvalue="500" />
+                <dimension name="weight" xvalue="38" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="EBGaramondVF" filename="instances/EBGaramondVF-Default.ufo" postscriptfontname="EBGaramondVF-Default" stylename="Default">
+            <location>
+                <dimension name="width" xvalue="178.071200" />
+                <dimension name="ytransUC" xvalue="808.749443" />
+                <dimension name="ytransparentasc" xvalue="723.893463" />
+                <dimension name="xtransparent" xvalue="212.741766" />
+                <dimension name="xopaque" xvalue="250.435662" />
+                <dimension name="ytranslc" xvalue="530.614576" />
+                <dimension name="weight" xvalue="176.747783" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
+</designspace>

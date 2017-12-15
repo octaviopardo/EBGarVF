@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="90" maximum="1038" minimum="90" name="xtransparent" tag="x002" />
+        <axis default="8" maximum="76" minimum="8" name="yopaque" tag="x003" />
+        <axis default="245" maximum="567" minimum="245" name="ytransparentLC" tag="x004" />
+        <axis default="10" maximum="482" minimum="10" name="xopaque" tag="x001" />
+    </axes>
+    <sources>
+        <source familyname="EB Garamond VF" filename="../UFO/EB Garamond VF-xopaqueMax.ufo" stylename="xtransparent">
+            <location>
+                <dimension name="xtransparent" xvalue="392" />
+                <dimension name="yopaque" xvalue="38" />
+                <dimension name="ytransparentLC" xvalue="400" />
+                <dimension name="xopaque" xvalue="482" />
+            </location>
+        </source>
+        <source familyname="EB Garamond VF" filename="../UFO/EB Garamond VF-xopaqueMin.ufo" stylename="xtransparent">
+            <location>
+                <dimension name="xtransparent" xvalue="392" />
+                <dimension name="yopaque" xvalue="38" />
+                <dimension name="ytransparentLC" xvalue="400" />
+                <dimension name="xopaque" xvalue="10" />
+            </location>
+        </source>
+        <source familyname="EB Garamond VF" filename="../UFO/EB Garamond VF-xtransparentMax.ufo" stylename="xtransparent">
+            <location>
+                <dimension name="xtransparent" xvalue="1038" />
+                <dimension name="yopaque" xvalue="38" />
+                <dimension name="ytransparentLC" xvalue="400" />
+                <dimension name="xopaque" xvalue="80" />
+            </location>
+        </source>
+        <source familyname="EB Garamond VF" filename="../UFO/EB Garamond VF-xtransparentMin.ufo" stylename="xtransparent">
+            <location>
+                <dimension name="xtransparent" xvalue="90" />
+                <dimension name="yopaque" xvalue="38" />
+                <dimension name="ytransparentLC" xvalue="400" />
+                <dimension name="xopaque" xvalue="80" />
+            </location>
+        </source>
+        <source familyname="EB Garamond VF" filename="../UFO/EB Garamond VF-Original.ufo" stylename="xtransparent">
+            <location>
+                <dimension name="xtransparent" xvalue="392" />
+                <dimension name="yopaque" xvalue="38" />
+                <dimension name="ytransparentLC" xvalue="400" />
+                <dimension name="xopaque" xvalue="80" />
+            </location>
+        </source>
+        <source familyname="EB Garamond VF" filename="../UFO/EB Garamond VF-yopaqueMax.ufo" stylename="xtransparent">
+            <location>
+                <dimension name="xtransparent" xvalue="392" />
+                <dimension name="yopaque" xvalue="76" />
+                <dimension name="ytransparentLC" xvalue="400" />
+                <dimension name="xopaque" xvalue="80" />
+            </location>
+        </source>
+        <source familyname="EB Garamond VF" filename="../UFO/EB Garamond VF-yopaqueMin.ufo" stylename="xtransparent">
+            <location>
+                <dimension name="xtransparent" xvalue="392" />
+                <dimension name="yopaque" xvalue="8" />
+                <dimension name="ytransparentLC" xvalue="400" />
+                <dimension name="xopaque" xvalue="80" />
+            </location>
+        </source>
+        <source familyname="EB Garamond VF" filename="../UFO/EB Garamond VF-ytransparentlcMax.ufo" stylename="xtransparent">
+            <location>
+                <dimension name="xtransparent" xvalue="392" />
+                <dimension name="yopaque" xvalue="76" />
+                <dimension name="ytransparentLC" xvalue="567" />
+                <dimension name="xopaque" xvalue="80" />
+            </location>
+        </source>
+        <source familyname="EB Garamond VF" filename="../UFO/EB Garamond VF-ytransparentlcMin.ufo" stylename="xtransparent">
+            <location>
+                <dimension name="xtransparent" xvalue="392" />
+                <dimension name="yopaque" xvalue="38" />
+                <dimension name="ytransparentLC" xvalue="245" />
+                <dimension name="xopaque" xvalue="80" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="EB Garamond VF" filename="instances/EBGaramondVF-Light_compressed.ufo" postscriptfontname="EBGaramondVF-Light_compressed" stylename="Light_compressed">
+            <location>
+                <dimension name="xtransparent" xvalue="135" />
+                <dimension name="yopaque" xvalue="20" />
+                <dimension name="ytransparentLC" xvalue="380" />
+                <dimension name="xopaque" xvalue="38" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="EB Garamond VF" filename="instances/EBGaramondVF-regular_compressed.ufo" postscriptfontname="EBGaramondVF-regular_compressed" stylename="regular_compressed">
+            <location>
+                <dimension name="xtransparent" xvalue="135" />
+                <dimension name="yopaque" xvalue="38" />
+                <dimension name="ytransparentLC" xvalue="400" />
+                <dimension name="xopaque" xvalue="70" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="EB Garamond VF" filename="instances/EBGaramondVF-Bold_compressed.ufo" postscriptfontname="EBGaramondVF-Bold_compressed" stylename="Bold_compressed">
+            <location>
+                <dimension name="xtransparent" xvalue="135" />
+                <dimension name="yopaque" xvalue="57" />
+                <dimension name="ytransparentLC" xvalue="423" />
+                <dimension name="xopaque" xvalue="190" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="EB Garamond VF" filename="instances/EBGaramondVF-Light_expanded.ufo" postscriptfontname="EBGaramondVF-Light_expanded" stylename="Light_expanded">
+            <location>
+                <dimension name="xtransparent" xvalue="650" />
+                <dimension name="yopaque" xvalue="31" />
+                <dimension name="ytransparentLC" xvalue="380" />
+                <dimension name="xopaque" xvalue="55" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="EB Garamond VF" filename="instances/EBGaramondVF-regular_expanded.ufo" postscriptfontname="EBGaramondVF-regular_expanded" stylename="regular_expanded">
+            <location>
+                <dimension name="xtransparent" xvalue="650" />
+                <dimension name="yopaque" xvalue="45" />
+                <dimension name="ytransparentLC" xvalue="400" />
+                <dimension name="xopaque" xvalue="90" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="EB Garamond VF" filename="instances/EBGaramondVF-x002135.00_x00357.00_x001190.00_x004423.00.ufo" postscriptfontname="EBGaramondVF-x002135.00_x00357.00_x001190.00_x004423.00" stylename="x002135.00_x00357.00_x001190.00_x004423.00">
+            <location>
+                <dimension name="xtransparent" xvalue="600" />
+                <dimension name="yopaque" xvalue="65" />
+                <dimension name="ytransparentLC" xvalue="423" />
+                <dimension name="xopaque" xvalue="260" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
+</designspace>
