@@ -16,6 +16,23 @@
         <axis default="4" maximum="85" minimum="4" name="yopaque" tag="YOPQ" />
     </axes>
     <sources>
+        <source familyname="EBGaramondVF" filename="instances/EBGaramondVF-Original.ufo" stylename="Original">
+            <location>
+                <dimension name="xopaque" xvalue="88" />
+                <dimension name="weight" xvalue="88" />
+                <dimension name="ytransUC" xvalue="750" />
+                <dimension name="opticalsize" xvalue="14" />
+                <dimension name="width" xvalue="402" />
+                <dimension name="ytransparent" xvalue="1000" />
+                <dimension name="ytranslowercase" xvalue="500" />
+                <dimension name="xtransparent" xvalue="402" />
+                <dimension name="ytransascender" xvalue="750" />
+                <dimension name="grade" xvalue="88" />
+                <dimension name="ytransde" xvalue="250" />
+                <dimension name="serifheight" xvalue="18" />
+                <dimension name="yopaque" xvalue="50" />
+            </location>
+        </source>
         <source familyname="EBGaramondVF" filename="../UFO/EBGaramondVF-GradeMin.ufo" stylename="GradeMin">
             <location>
                 <dimension name="xopaque" xvalue="88" />

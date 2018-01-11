@@ -9,8 +9,8 @@
     <data name="lineInverted" value="False"/>
     <data name="lineViewFilled" value="True"/>
     <data name="lineStacked" value="sequence"/>
-    <data name="generateFontsAtFolder" value="/Users/oct/Documents/GITHUB/EBGarVF/makeVar/designspace+instances/instances"/>
-    <data name="previewtext" value="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"/>
+    <data name="generateFontsAtFolder" value="/Users/oct/Documents/GITHUB/EBGarVF/makeVar/designspace_instances/instances"/>
+    <data name="previewtext" value="ABCDEFGHIJK%LMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789#.,:;"/>
     <data name="verticalPreviewAxis" value="opticalsize"/>
     <!-- don't generate these glyphs -->
     <ignore glyphs=""/>
@@ -55,8 +55,7 @@
         <color a="1.000" b="0.355" g="0.345" r="0.655"/>
     </axis>
     <!-- master definitions -->
-    <!-- masks -->
-    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-Original.ufo" sortorder="0" stylename="Original">
+    <master familyname="EBGaramondVF" filename="../designspace_instances/instances/EBGaramondVF-Original.ufo" sortorder="0" stylename="Original">
         <location>
             <dimension name="ytransparent" xvalue="1000.000000"/>
             <dimension name="ytransde" xvalue="250.000000"/>
@@ -73,7 +72,6 @@
             <dimension name="yopaque" xvalue="50.000000"/>
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
-        <maskedfont font="1"/>
     </master>
     <master familyname="EBGaramondVF" filename="../UFO/EBGaramondVF-GradeMin.ufo" sortorder="1" stylename="GradeMin">
         <location>
@@ -93,7 +91,7 @@
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
-    <master familyname="EB Garamond VF" filename="instances/EBGaramondVF-Compressed_Regular.ufo" sortorder="2" stylename="Compressed_Regular">
+    <master familyname="EB Garamond VF" filename="../designspace_instances/instances/EBGaramondVF-Compressed_Regular.ufo" sortorder="2" stylename="Compressed_Regular">
         <location>
             <dimension name="ytransparent" xvalue="1000.000000"/>
             <dimension name="ytransde" xvalue="250.000000"/>
@@ -111,7 +109,7 @@
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
-    <master familyname="EB Garamond VF" filename="instances/EBGaramondVF-Caption_Regular.ufo" sortorder="3" stylename="Caption_Regular">
+    <master familyname="EB Garamond VF" filename="../designspace_instances/instances/EBGaramondVF-Caption_Regular.ufo" sortorder="3" stylename="Caption_Regular">
         <location>
             <dimension name="ytransparent" xvalue="1000.000000"/>
             <dimension name="ytransde" xvalue="250.000000"/>
@@ -129,7 +127,7 @@
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
-    <master familyname="EB Garamond VF" filename="instances/EBGaramondVF-Display_Regular.ufo" sortorder="4" stylename="Display_Regular">
+    <master familyname="EB Garamond VF" filename="../designspace_instances/instances/EBGaramondVF-Display_Regular.ufo" sortorder="4" stylename="Display_Regular">
         <location>
             <dimension name="ytransparent" xvalue="1000.000000"/>
             <dimension name="ytransde" xvalue="250.000000"/>
@@ -472,7 +470,7 @@
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
     <!-- instance definitions -->
-    <instance familyname="EB Garamond VF" filename="instances/EBGaramondVF-XTRA402.00_YTUC750.00_opsz14.00_XOPQ88.00_YTAS750.00_YOPQ50.00_wdth402.00_YTSE18.00_YTLC500.00_GRAD88.00_YTRA1000.00_YTDE250.00_wght88.00.ufo" sortorder="23" stylename="XTRA402.00_YTUC750.00_opsz14.00_XOPQ88.00_YTAS750.00_YOPQ50.00_wdth402.00_YTSE18.00_YTLC500.00_GRAD88.00_YTRA1000.00_YTDE250.00_wght88.00">
+    <instance familyname="EB Garamond VF" filename="../designspace_instances/instances/EBGaramondVF-XTRA402.00_YTUC750.00_opsz14.00_XOPQ88.00_YTAS750.00_YOPQ50.00_wdth402.00_YTSE18.00_YTLC500.00_GRAD88.00_YTRA1000.00_YTDE250.00_wght88.00.ufo" sortorder="23" stylename="XTRA402.00_YTUC750.00_opsz14.00_XOPQ88.00_YTAS750.00_YOPQ50.00_wdth402.00_YTSE18.00_YTLC500.00_GRAD88.00_YTRA1000.00_YTDE250.00_wght88.00">
         <location>
             <dimension name="ytransparent" xvalue="1000.000000"/>
             <dimension name="ytransde" xvalue="250.000000"/>
@@ -493,7 +491,7 @@
         <provideLib state="1"/>
         <provideInfo state="1"/>
     </instance>
-    <instance familyname="EB Garamond VF" filename="instances/EBGaramondVF-XTRA402.00_YTUC750.00_opsz14.00_XOPQ88.00_YTAS750.00_YOPQ50.00_wdth402.00_YTSE18.00_YTLC500.00_GRAD88.00_YTRA1000.00_YTDE250.00_wght88.00.ufo" sortorder="24" stylename="XTRA402.00_YTUC750.00_opsz14.00_XOPQ88.00_YTAS750.00_YOPQ50.00_wdth402.00_YTSE18.00_YTLC500.00_GRAD88.00_YTRA1000.00_YTDE250.00_wght88.00">
+    <instance familyname="EB Garamond VF" filename="../designspace_instances/instances/EBGaramondVF-XTRA402.00_YTUC750.00_opsz14.00_XOPQ88.00_YTAS750.00_YOPQ50.00_wdth402.00_YTSE18.00_YTLC500.00_GRAD88.00_YTRA1000.00_YTDE250.00_wght88.00.ufo" sortorder="24" stylename="XTRA402.00_YTUC750.00_opsz14.00_XOPQ88.00_YTAS750.00_YOPQ50.00_wdth402.00_YTSE18.00_YTLC500.00_GRAD88.00_YTRA1000.00_YTDE250.00_wght88.00">
         <location>
             <dimension name="ytransparent" xvalue="1000.000000"/>
             <dimension name="ytransde" xvalue="250.000000"/>
@@ -514,7 +512,7 @@
         <provideLib state="1"/>
         <provideInfo state="1"/>
     </instance>
-    <instance familyname="EB Garamond VF" filename="instances/EBGaramondVF-YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth402.00_wght88.00_opsz14.00_YTSE18.00_YTAS750.00_GRAD88.00.ufo" sortorder="25" stylename="YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth402.00_wght88.00_opsz14.00_YTSE18.00_YTAS750.00_GRAD88.00">
+    <instance familyname="EB Garamond VF" filename="../designspace_instances/instances/EBGaramondVF-YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth402.00_wght88.00_opsz14.00_YTSE18.00_YTAS750.00_GRAD88.00.ufo" sortorder="25" stylename="YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth402.00_wght88.00_opsz14.00_YTSE18.00_YTAS750.00_GRAD88.00">
         <location>
             <dimension name="ytransparent" xvalue="1000.000000"/>
             <dimension name="ytransde" xvalue="250.000000"/>
@@ -535,7 +533,7 @@
         <provideLib state="1"/>
         <provideInfo state="1"/>
     </instance>
-    <instance familyname="EB Garamond VF" filename="instances/EBGaramondVF-YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth255.65_wght88.00_opsz57.62_YTSE18.00_YTAS750.00_GRAD88.00.ufo" sortorder="26" stylename="YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth255.65_wght88.00_opsz57.62_YTSE18.00_YTAS750.00_GRAD88.00">
+    <instance familyname="EB Garamond VF" filename="../designspace_instances/instances/EBGaramondVF-YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth255.65_wght88.00_opsz57.62_YTSE18.00_YTAS750.00_GRAD88.00.ufo" sortorder="26" stylename="YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth255.65_wght88.00_opsz57.62_YTSE18.00_YTAS750.00_GRAD88.00">
         <location>
             <dimension name="ytransparent" xvalue="1000.000000"/>
             <dimension name="ytransde" xvalue="250.000000"/>
@@ -556,7 +554,7 @@
         <provideLib state="1"/>
         <provideInfo state="1"/>
     </instance>
-    <instance familyname="EB Garamond VF" filename="instances/EBGaramondVF-YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth402.00_wght88.00_opsz14.00_YTSE18.00_YTAS750.00_GRAD88.00.ufo" sortorder="27" stylename="YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth402.00_wght88.00_opsz14.00_YTSE18.00_YTAS750.00_GRAD88.00">
+    <instance familyname="EB Garamond VF" filename="../designspace_instances/instances/EBGaramondVF-YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth402.00_wght88.00_opsz14.00_YTSE18.00_YTAS750.00_GRAD88.00.ufo" sortorder="27" stylename="YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth402.00_wght88.00_opsz14.00_YTSE18.00_YTAS750.00_GRAD88.00">
         <location>
             <dimension name="ytransparent" xvalue="1000.000000"/>
             <dimension name="ytransde" xvalue="250.000000"/>
@@ -577,7 +575,7 @@
         <provideLib state="1"/>
         <provideInfo state="1"/>
     </instance>
-    <instance familyname="EB Garamond VF" filename="instances/EBGaramondVF-YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth402.00_wght88.00_opsz14.00_YTSE18.00_YTAS750.00_GRAD88.00.ufo" sortorder="28" stylename="YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth402.00_wght88.00_opsz14.00_YTSE18.00_YTAS750.00_GRAD88.00">
+    <instance familyname="EB Garamond VF" filename="../designspace_instances/instances/EBGaramondVF-YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth402.00_wght88.00_opsz14.00_YTSE18.00_YTAS750.00_GRAD88.00.ufo" sortorder="28" stylename="YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth402.00_wght88.00_opsz14.00_YTSE18.00_YTAS750.00_GRAD88.00">
         <location>
             <dimension name="ytransparent" xvalue="1000.000000"/>
             <dimension name="ytransde" xvalue="250.000000"/>
