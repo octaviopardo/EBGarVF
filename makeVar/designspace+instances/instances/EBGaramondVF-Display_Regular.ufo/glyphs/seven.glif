@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven" format="1">
-  <advance width="484"/>
+  <advance width="480"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
@@ -55,7 +55,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-11-20 17:00:31 +0000</string>
+      <string>2017-12-18 10:39:14 +0000</string>
     </dict>
   </lib>
 </glyph>

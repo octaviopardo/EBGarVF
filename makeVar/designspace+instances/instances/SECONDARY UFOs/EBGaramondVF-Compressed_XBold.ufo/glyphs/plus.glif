@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus" format="1">
+  <advance width="301"/>
+  <unicode hex="002B"/>
+  <outline>
+    <contour>
+      <point x="186" y="134" type="curve" smooth="yes"/>
+      <point x="186" y="203" type="line" smooth="yes"/>
+      <point x="186" y="207"/>
+      <point x="187" y="209"/>
+      <point x="190" y="209" type="curve" smooth="yes"/>
+      <point x="245" y="209" type="line" smooth="yes"/>
+      <point x="264" y="209"/>
+      <point x="276" y="244"/>
+      <point x="276" y="265" type="curve" smooth="yes"/>
+      <point x="276" y="273"/>
+      <point x="270" y="279"/>
+      <point x="263" y="279" type="curve" smooth="yes"/>
+      <point x="188" y="279" type="line" smooth="yes"/>
+      <point x="186" y="279"/>
+      <point x="186" y="280"/>
+      <point x="186" y="287" type="curve" smooth="yes"/>
+      <point x="186" y="363" type="line" smooth="yes"/>
+      <point x="186" y="370"/>
+      <point x="177" y="376"/>
+      <point x="168" y="376" type="curve" smooth="yes"/>
+      <point x="161" y="376"/>
+      <point x="115" y="367"/>
+      <point x="115" y="345" type="curve" smooth="yes"/>
+      <point x="115" y="289" type="line" smooth="yes"/>
+      <point x="115" y="281"/>
+      <point x="114" y="279"/>
+      <point x="107" y="279" type="curve" smooth="yes"/>
+      <point x="49" y="279" type="line" smooth="yes"/>
+      <point x="31" y="279"/>
+      <point x="25" y="236"/>
+      <point x="25" y="224" type="curve" smooth="yes"/>
+      <point x="25" y="217"/>
+      <point x="32" y="209"/>
+      <point x="39" y="209" type="curve" smooth="yes"/>
+      <point x="110" y="209" type="line" smooth="yes"/>
+      <point x="114" y="209"/>
+      <point x="115" y="206"/>
+      <point x="115" y="202" type="curve" smooth="yes"/>
+      <point x="115" y="124" type="line" smooth="yes"/>
+      <point x="115" y="117"/>
+      <point x="123" y="110"/>
+      <point x="130" y="110" type="curve" smooth="yes"/>
+      <point x="141" y="110"/>
+      <point x="186" y="113"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-27 11:44:57 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <integer>0</integer>
+                  <key>x</key>
+                  <integer>80</integer>
+                  <key>y</key>
+                  <integer>556</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <integer>0</integer>
+                  <key>x</key>
+                  <integer>80</integer>
+                  <key>y</key>
+                  <integer>708</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <integer>0</integer>
+                  <key>x</key>
+                  <integer>944</integer>
+                  <key>y</key>
+                  <integer>708</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <integer>0</integer>
+                  <key>x</key>
+                  <integer>944</integer>
+                  <key>y</key>
+                  <integer>556</integer>
+                </dict>
+              </array>
+            </dict>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <integer>0</integer>
+                  <key>x</key>
+                  <integer>432</integer>
+                  <key>y</key>
+                  <integer>1064</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <integer>0</integer>
+                  <key>x</key>
+                  <integer>592</integer>
+                  <key>y</key>
+                  <integer>1064</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <integer>0</integer>
+                  <key>x</key>
+                  <integer>592</integer>
+                  <key>y</key>
+                  <integer>200</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <integer>0</integer>
+                  <key>x</key>
+                  <integer>432</integer>
+                  <key>y</key>
+                  <integer>200</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>plus</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1024</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

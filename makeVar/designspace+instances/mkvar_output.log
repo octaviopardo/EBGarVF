@@ -1,108 +1,10 @@
 ---------------------------------------------------------
 Generate variable font using
-/Users/oct/Documents/EB_GARAMOND_VF_TEST/makeVar/designspace+instances/test-FullHouse-04.designspace
+/Users/oct/Documents/GITHUB/EBGarVF/makeVar/designspace+instances/test-FullHouse-04.designspace
 
 ---------------------------------------------------------
 INFO:fontmake.font_project:Building interpolation-compatible TTFs
 INFO:fontmake.font_project:Converting curves compatibly
-INFO:cu2qu.ufo:New spline lengths: 1: 36, 2: 677, 3: 234, 4: 163, 5: 24, 6: 4, 8: 2
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-yopaqueMin
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-/Library/Python/2.7/site-packages/ufo2ft/__init__.py:100: UserWarning: 'kernWriterClass' is deprecated; use 'featureWriters' instead
-  featureWriters, kernWriterClass, markWriterClass)
-/Library/Python/2.7/site-packages/ufo2ft/__init__.py:100: UserWarning: 'markWriterClass' is deprecated; use 'featureWriters' instead
-  featureWriters, kernWriterClass, markWriterClass)
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-yopaqueMax
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-Original
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-GradeMin
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-Compressed_Regular
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-Caption_Regular
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-Display_Regular
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-xopaqueMin
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-xopaqueMax
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-xtransparentMin
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-SerifRiseMin
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-SerifRIseMax
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-ytransparentlcMin
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-ytransparentlcMax
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-ytransparentascMax
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-ytransparentdescMin
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-GradeMax
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-ytransparentascMin
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-ytransparentdescMax
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-ytransparentUCMin
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-ytransparentMax
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-ytransparentMin
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-ytransparentUCMax
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Building variable font variable_ttf/test-FullHouse-04-VF.ttf
 Traceback (most recent call last):
   File "/usr/local/bin/fontmake", line 11, in <module>
     sys.exit(main())
@@ -110,9 +12,17 @@ Traceback (most recent call last):
     project.run_from_designspace(designspace_path, **args)
   File "/Library/Python/2.7/site-packages/fontmake/font_project.py", line 434, in run_from_designspace
     interpolate_layout_from=interpolate_layout_from, **kwargs)
-  File "/Library/Python/2.7/site-packages/fontmake/font_project.py", line 493, in run_from_ufos
-    self.build_variable_font(designspace_path)
-  File "/Library/Python/2.7/site-packages/fontmake/font_project.py", line 219, in build_variable_font
-    assert all(p.startswith(ufodir) for p in ufo_paths)
-AssertionError
+  File "/Library/Python/2.7/site-packages/fontmake/font_project.py", line 488, in run_from_ufos
+    ufos, reverse_direction, conversion_error, **kwargs)
+  File "/Library/Python/2.7/site-packages/fontmake/font_project.py", line 204, in build_interpolatable_ttfs
+    conversion_error=conversion_error)
+  File "/Library/Python/2.7/site-packages/fontTools/misc/loggingTools.py", line 372, in wrapper
+    return func(*args, **kwds)
+  File "/Library/Python/2.7/site-packages/fontmake/font_project.py", line 159, in convert_curves
+    reverse_direction=reverse_direction, dump_stats=True)
+  File "/Library/Python/2.7/site-packages/cu2qu/ufo.py", line 254, in fonts_to_quadratic
+    glyphs, cur_max_errors, reverse_direction, stats)
+  File "/Library/Python/2.7/site-packages/cu2qu/ufo.py", line 167, in _glyphs_to_quadratic
+    raise IncompatibleGlyphsError(*glyphs)
+cu2qu.ufo.IncompatibleGlyphsError: 'percent'
 
