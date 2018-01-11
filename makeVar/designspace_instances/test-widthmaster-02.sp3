@@ -9,7 +9,7 @@
     <data name="lineInverted" value="False"/>
     <data name="lineViewFilled" value="True"/>
     <data name="lineStacked" value="sequence"/>
-    <data name="generateFontsAtFolder" value="/Users/oct/Documents/GITHUB/EBGarVF/makeVar/designspace+instances/instances"/>
+    <data name="generateFontsAtFolder" value="/Users/oct/Documents/GITHUB/EBGarVF/makeVar/designspace_instances/instances"/>
     <data name="previewtext" value="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"/>
     <data name="verticalPreviewAxis" value="xtransparent"/>
     <!-- don't generate these glyphs -->
@@ -187,6 +187,18 @@
             <dimension name="xtransparent" xvalue="70.000000"/>
             <dimension name="ytransparentLC" xvalue="400.000000"/>
             <dimension name="xopaque" xvalue="10.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="EB Garamond VF" filename="instances/EBGaramondVF-x00338.00_x001482.00_x004400.00_x002392.00.ufo" sortorder="16" stylename="x00338.00_x001482.00_x004400.00_x002392.00">
+        <location>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransparentLC" xvalue="400.000000"/>
+            <dimension name="xopaque" xvalue="482.000000"/>
             <dimension name="yopaque" xvalue="38.000000"/>
         </location>
         <provideFeatures state="1"/>

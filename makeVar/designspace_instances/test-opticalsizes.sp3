@@ -9,7 +9,7 @@
     <data name="lineInverted" value="False"/>
     <data name="lineViewFilled" value="True"/>
     <data name="lineStacked" value="sequence"/>
-    <data name="generateFontsAtFolder" value="/Users/oct/Documents/EB_GARAMOND_VF_TEST/DESIGNSPACES/instances"/>
+    <data name="generateFontsAtFolder" value="/Users/oct/Documents/GITHUB/EBGarVF/makeVar/designspace_instances/instances"/>
     <data name="previewtext" value="i i"/>
     <data name="verticalPreviewAxis" value="yopaque"/>
     <!-- don't generate these glyphs -->
@@ -97,19 +97,7 @@
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
-    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-xtransparentMax.ufo" sortorder="19" stylename="xtransparentMax">
-        <location>
-            <dimension name="xtransparent" xvalue="1038.000000"/>
-            <dimension name="ytransparentDESC" xvalue="281.000000"/>
-            <dimension name="yopaque" xvalue="38.000000"/>
-            <dimension name="ytransparentUC" xvalue="650.000000"/>
-            <dimension name="ytransparentLC" xvalue="400.000000"/>
-            <dimension name="xopaque" xvalue="80.000000"/>
-            <dimension name="ytransparentASC" xvalue="691.000000"/>
-        </location>
-        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
-    </master>
-    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentlcMin.ufo" sortorder="20" stylename="ytransparentlcMin">
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentlcMin.ufo" sortorder="19" stylename="ytransparentlcMin">
         <location>
             <dimension name="xtransparent" xvalue="90.000000"/>
             <dimension name="ytransparentDESC" xvalue="281.000000"/>
@@ -121,7 +109,7 @@
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
-    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentascMax.ufo" sortorder="21" stylename="ytransparentascMax">
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentascMax.ufo" sortorder="20" stylename="ytransparentascMax">
         <location>
             <dimension name="xtransparent" xvalue="392.000000"/>
             <dimension name="ytransparentDESC" xvalue="281.000000"/>
@@ -133,7 +121,7 @@
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
-    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentascMin.ufo" sortorder="22" stylename="ytransparentascMin">
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentascMin.ufo" sortorder="21" stylename="ytransparentascMin">
         <location>
             <dimension name="xtransparent" xvalue="392.000000"/>
             <dimension name="ytransparentDESC" xvalue="281.000000"/>
@@ -145,7 +133,7 @@
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
-    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentdescMax.ufo" sortorder="23" stylename="ytransparentdescMax">
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentdescMax.ufo" sortorder="22" stylename="ytransparentdescMax">
         <location>
             <dimension name="xtransparent" xvalue="392.000000"/>
             <dimension name="ytransparentDESC" xvalue="390.000000"/>
@@ -157,7 +145,7 @@
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
-    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentdescMin.ufo" sortorder="24" stylename="ytransparentdescMin">
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentdescMin.ufo" sortorder="23" stylename="ytransparentdescMin">
         <location>
             <dimension name="xtransparent" xvalue="392.000000"/>
             <dimension name="ytransparentDESC" xvalue="179.000000"/>
@@ -169,7 +157,7 @@
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
-    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentlcMax.ufo" sortorder="25" stylename="ytransparentlcMax">
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentlcMax.ufo" sortorder="24" stylename="ytransparentlcMax">
         <location>
             <dimension name="xtransparent" xvalue="392.000000"/>
             <dimension name="ytransparentDESC" xvalue="281.000000"/>
@@ -181,7 +169,7 @@
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
-    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentlcMin.ufo" sortorder="26" stylename="ytransparentlcMin">
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentlcMin.ufo" sortorder="25" stylename="ytransparentlcMin">
         <location>
             <dimension name="xtransparent" xvalue="392.000000"/>
             <dimension name="ytransparentDESC" xvalue="281.000000"/>
@@ -193,7 +181,7 @@
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
-    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentUCMax.ufo" sortorder="27" stylename="ytransparentUCMax">
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentUCMax.ufo" sortorder="26" stylename="ytransparentUCMax">
         <location>
             <dimension name="xtransparent" xvalue="392.000000"/>
             <dimension name="ytransparentDESC" xvalue="281.000000"/>
@@ -205,12 +193,24 @@
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
-    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentUCMin.ufo" sortorder="28" stylename="ytransparentUCMin">
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentUCMin.ufo" sortorder="27" stylename="ytransparentUCMin">
         <location>
             <dimension name="xtransparent" xvalue="392.000000"/>
             <dimension name="ytransparentDESC" xvalue="281.000000"/>
             <dimension name="yopaque" xvalue="38.000000"/>
             <dimension name="ytransparentUC" xvalue="406.000000"/>
+            <dimension name="ytransparentLC" xvalue="400.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytransparentASC" xvalue="691.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-xtransparentMax.ufo" sortorder="28" stylename="xtransparentMax">
+        <location>
+            <dimension name="xtransparent" xvalue="1038.000000"/>
+            <dimension name="ytransparentDESC" xvalue="281.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+            <dimension name="ytransparentUC" xvalue="650.000000"/>
             <dimension name="ytransparentLC" xvalue="400.000000"/>
             <dimension name="xopaque" xvalue="80.000000"/>
             <dimension name="ytransparentASC" xvalue="691.000000"/>
