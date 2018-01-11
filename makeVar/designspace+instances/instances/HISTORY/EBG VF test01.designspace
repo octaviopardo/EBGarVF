@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="0" maximum="1000" minimum="0" name="Yopaque" tag="x004" />
+        <axis default="0" maximum="1000" minimum="0" name="Xtransparent" tag="x001" />
+        <axis default="0" maximum="1000" minimum="0" name="Xopaque" tag="x002" />
+        <axis default="0" maximum="1000" minimum="0" name="Ytransparent" tag="x003" />
+    </axes>
+    <sources>
+        <source familyname="EB Garamond VF" filename="EB Garamond VF-xopaque.ufo" stylename="xopaque">
+            <location>
+                <dimension name="Yopaque" xvalue="0" />
+                <dimension name="Xtransparent" xvalue="0" />
+                <dimension name="Xopaque" xvalue="1000" />
+                <dimension name="Ytransparent" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="EB Garamond VF" filename="EB Garamond VF-xopaque0.ufo" stylename="xopaque">
+            <location>
+                <dimension name="Yopaque" xvalue="0" />
+                <dimension name="Xtransparent" xvalue="0" />
+                <dimension name="Xopaque" xvalue="0" />
+                <dimension name="Ytransparent" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="EB Garamond VF" filename="EB Garamond VF-xtransparent.ufo" stylename="xtransparent">
+            <location>
+                <dimension name="Yopaque" xvalue="0" />
+                <dimension name="Xtransparent" xvalue="1000" />
+                <dimension name="Xopaque" xvalue="0" />
+                <dimension name="Ytransparent" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="EB Garamond VF" filename="EB Garamond VF-xtransparent0.ufo" stylename="xtransparent">
+            <location>
+                <dimension name="Yopaque" xvalue="0" />
+                <dimension name="Xtransparent" xvalue="0" />
+                <dimension name="Xopaque" xvalue="0" />
+                <dimension name="Ytransparent" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="EB Garamond VF" filename="EB Garamond VF-yopaque.ufo" stylename="yopaque">
+            <location>
+                <dimension name="Yopaque" xvalue="1000" />
+                <dimension name="Xtransparent" xvalue="0" />
+                <dimension name="Xopaque" xvalue="0" />
+                <dimension name="Ytransparent" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="EB Garamond VF" filename="EB Garamond VF-yopaque0.ufo" stylename="yopaque">
+            <location>
+                <dimension name="Yopaque" xvalue="0" />
+                <dimension name="Xtransparent" xvalue="0" />
+                <dimension name="Xopaque" xvalue="0" />
+                <dimension name="Ytransparent" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="EB Garamond VF" filename="EB Garamond VF-ytransparent.ufo" stylename="ytransparent">
+            <location>
+                <dimension name="Yopaque" xvalue="0" />
+                <dimension name="Xtransparent" xvalue="0" />
+                <dimension name="Xopaque" xvalue="0" />
+                <dimension name="Ytransparent" xvalue="1000" />
+            </location>
+        </source>
+        <source familyname="EB Garamond VF" filename="EB Garamond VF-ytransparent0.ufo" stylename="ytransparent">
+            <location>
+                <dimension name="Yopaque" xvalue="0" />
+                <dimension name="Xtransparent" xvalue="0" />
+                <dimension name="Xopaque" xvalue="0" />
+                <dimension name="Ytransparent" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="EB Garamond VF" filename="EB Garamond VF-Original.ufo" stylename="Original">
+            <location>
+                <dimension name="Yopaque" xvalue="500" />
+                <dimension name="Xtransparent" xvalue="500" />
+                <dimension name="Xopaque" xvalue="500" />
+                <dimension name="Ytransparent" xvalue="500" />
+            </location>
+        </source>
+    </sources>
+</designspace>

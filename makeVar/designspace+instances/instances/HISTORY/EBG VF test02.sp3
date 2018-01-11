@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="2">
+    <!-- Superpolator Designspace Object -->
+    <!-- info -->
+    <version superpolator="2"/>
+    <!-- measurements -->
+    <!-- application data -->
+    <data name="horizontalPreviewAxis" value="None"/>
+    <data name="lineInverted" value="False"/>
+    <data name="lineViewFilled" value="True"/>
+    <data name="lineStacked" value="sequence"/>
+    <data name="generateFontsAtFolder" value="/Users/oct/Documents/EB GARAMOND VF TEST/fb-Amstelvar-master/sources/1-drawing/instances"/>
+    <data name="previewtext" value="Hgkx012"/>
+    <data name="verticalPreviewAxis" value="None"/>
+    <!-- don't generate these glyphs -->
+    <ignore glyphs=""/>
+    <!-- axis definitions -->
+    <axis maximum="72.000000" minimum="10.000000" name="Optical Size" shortname="opsz">
+        <color a="1.000" b="0.500" g="0.500" r="0.500"/>
+    </axis>
+    <axis maximum="500.000000" minimum="75.000000" name="Weight" shortname="wght">
+        <color a="1.000" b="0.500" g="0.500" r="0.500"/>
+    </axis>
+    <axis maximum="500.000000" minimum="176.000000" name="Grade" shortname="grad">
+        <color a="1.000" b="0.500" g="0.500" r="0.500"/>
+    </axis>
+    <axis maximum="1000.000000" minimum="10.000000" name="ParaWeight" shortname="prwg">
+        <color a="1.000" b="0.500" g="0.500" r="0.500"/>
+    </axis>
+    <axis maximum="804.000000" minimum="120.000000" name="Width" shortname="wdth">
+        <color a="1.000" b="0.500" g="0.500" r="0.500"/>
+    </axis>
+    <axis maximum="95.000000" minimum="0.000000" name="Serif Rise" shortname="srfr">
+        <color a="1.000" b="0.500" g="0.500" r="0.500"/>
+    </axis>
+    <axis maximum="1200.000000" minimum="890.000000" name="xHeight" shortname="xhgt">
+        <color a="1.000" b="0.500" g="0.500" r="0.500"/>
+    </axis>
+    <axis maximum="170.000000" minimum="8.000000" name="Contrast" shortname="cntr">
+        <color a="1.000" b="0.500" g="0.500" r="0.500"/>
+    </axis>
+    <axis maximum="804.000000" minimum="84.000000" name="ParaWidth" shortname="prwd">
+        <color a="1.000" b="0.500" g="0.500" r="0.500"/>
+    </axis>
+    <!-- master definitions -->
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-Default.ufo" sortorder="0" stylename="Default">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="176.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="35.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="100.000000"/>
+            <dimension name="ParaWidth" xvalue="804.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-xHeightMin.ufo" sortorder="1" stylename="xHeightMin">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="176.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="35.000000"/>
+            <dimension name="xHeight" xvalue="890.000000"/>
+            <dimension name="Contrast" xvalue="100.000000"/>
+            <dimension name="ParaWidth" xvalue="804.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-xHeightMax.ufo" sortorder="2" stylename="xHeightMax">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="176.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="35.000000"/>
+            <dimension name="xHeight" xvalue="1200.000000"/>
+            <dimension name="Contrast" xvalue="100.000000"/>
+            <dimension name="ParaWidth" xvalue="804.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-ParaWeightMin.ufo" sortorder="3" stylename="ParaWeightMin">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="10.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="35.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="100.000000"/>
+            <dimension name="ParaWidth" xvalue="804.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-ParaWeightMax.ufo" sortorder="4" stylename="ParaWeightMax">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="1000.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="35.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="100.000000"/>
+            <dimension name="ParaWidth" xvalue="804.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-SerifRiseMin.ufo" sortorder="5" stylename="SerifRiseMin">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="176.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="0.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="100.000000"/>
+            <dimension name="ParaWidth" xvalue="804.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-SerifRiseMax.ufo" sortorder="6" stylename="SerifRiseMax">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="176.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="95.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="100.000000"/>
+            <dimension name="ParaWidth" xvalue="804.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-ParaWidthMin.ufo" sortorder="7" stylename="ParaWidthMin">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="176.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="35.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="100.000000"/>
+            <dimension name="ParaWidth" xvalue="84.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-ContrastMin.ufo" sortorder="8" stylename="ContrastMin">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="176.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="35.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="8.000000"/>
+            <dimension name="ParaWidth" xvalue="804.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-ContrastMax.ufo" sortorder="9" stylename="ContrastMax">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="176.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="35.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="170.000000"/>
+            <dimension name="ParaWidth" xvalue="804.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-prwd84-prwg10.ufo" sortorder="10" stylename="prwd84-prwg10">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="10.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="35.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="100.000000"/>
+            <dimension name="ParaWidth" xvalue="84.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-prwd84-prwg1000.ufo" sortorder="11" stylename="prwd84-prwg1000">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="1000.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="35.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="100.000000"/>
+            <dimension name="ParaWidth" xvalue="84.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-prwg10-cntr8.ufo" sortorder="12" stylename="prwg10-cntr8">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="10.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="35.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="8.000000"/>
+            <dimension name="ParaWidth" xvalue="804.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-prwd84-cntr8.ufo" sortorder="13" stylename="prwd84-cntr8">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="176.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="35.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="8.000000"/>
+            <dimension name="ParaWidth" xvalue="84.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-srfr0-cntr8.ufo" sortorder="14" stylename="srfr0-cntr8">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="176.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="0.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="8.000000"/>
+            <dimension name="ParaWidth" xvalue="804.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-prwd84-srfr0.ufo" sortorder="15" stylename="prwd84-srfr0">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="176.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="0.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="100.000000"/>
+            <dimension name="ParaWidth" xvalue="84.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-prwg1000-cntr8.ufo" sortorder="16" stylename="prwg1000-cntr8">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="1000.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="35.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="8.000000"/>
+            <dimension name="ParaWidth" xvalue="804.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-GradeMax.ufo" sortorder="17" stylename="GradeMax">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="500.000000"/>
+            <dimension name="ParaWeight" xvalue="176.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="35.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="100.000000"/>
+            <dimension name="ParaWidth" xvalue="804.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-OpticalSizeMin.ufo" sortorder="18" stylename="OpticalSizeMin">
+        <location>
+            <dimension name="Optical Size" xvalue="10.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="176.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="35.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="100.000000"/>
+            <dimension name="ParaWidth" xvalue="804.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-OpticalSizeMax.ufo" sortorder="19" stylename="OpticalSizeMax">
+        <location>
+            <dimension name="Optical Size" xvalue="72.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="176.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="35.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="100.000000"/>
+            <dimension name="ParaWidth" xvalue="804.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-WeightMin.ufo" sortorder="20" stylename="WeightMin">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="75.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="176.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="35.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="100.000000"/>
+            <dimension name="ParaWidth" xvalue="804.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-WeightMax.ufo" sortorder="21" stylename="WeightMax">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="500.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="176.000000"/>
+            <dimension name="Width" xvalue="804.000000"/>
+            <dimension name="Serif Rise" xvalue="35.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="100.000000"/>
+            <dimension name="ParaWidth" xvalue="804.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="AmstelvarAlpha" filename="AmstelvarAlpha-WidthMin.ufo" sortorder="22" stylename="WidthMin">
+        <location>
+            <dimension name="Optical Size" xvalue="14.000000"/>
+            <dimension name="Weight" xvalue="176.000000"/>
+            <dimension name="Grade" xvalue="176.000000"/>
+            <dimension name="ParaWeight" xvalue="176.000000"/>
+            <dimension name="Width" xvalue="120.000000"/>
+            <dimension name="Serif Rise" xvalue="35.000000"/>
+            <dimension name="xHeight" xvalue="1000.000000"/>
+            <dimension name="Contrast" xvalue="100.000000"/>
+            <dimension name="ParaWidth" xvalue="804.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <!-- instance definitions -->
+</designspace>
