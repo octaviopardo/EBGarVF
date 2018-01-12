@@ -16,6 +16,10 @@
 	<string>EBGaramondVF</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>ytransparentascMax</string>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>170</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>85</integer>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
@@ -23,11 +27,27 @@
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
 	<key>postscriptFontName</key>
 	<string>EBGaramondVF-ytransparentascMax</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-182</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>50</integer>
 	<key>styleMapFamilyName</key>
 	<string>EBGaramondVF ytransparentascMax</string>
 	<key>styleMapStyleName</key>
