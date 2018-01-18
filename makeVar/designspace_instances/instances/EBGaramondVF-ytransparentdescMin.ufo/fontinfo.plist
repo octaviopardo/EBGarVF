@@ -15,7 +15,7 @@
 	<key>openTypeHheaAscender</key>
 	<integer>691</integer>
 	<key>openTypeHheaDescender</key>
-	<integer>-179</integer>
+	<integer>-281</integer>
 	<key>openTypeHheaLineGap</key>
 	<integer>9</integer>
 	<key>openTypeNamePreferredFamilyName</key>
@@ -25,7 +25,7 @@
 	<key>openTypeOS2TypoAscender</key>
 	<integer>691</integer>
 	<key>openTypeOS2TypoDescender</key>
-	<integer>-179</integer>
+	<integer>-281</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>9</integer>
 	<key>openTypeOS2WeightClass</key>
@@ -35,7 +35,7 @@
 	<key>openTypeOS2WinAscent</key>
 	<integer>706</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>183</integer>
+	<integer>285</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>

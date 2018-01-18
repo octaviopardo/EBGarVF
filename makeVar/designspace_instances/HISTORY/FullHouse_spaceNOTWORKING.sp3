@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="2">
+    <!-- Superpolator Designspace Object -->
+    <!-- info -->
+    <version superpolator="2"/>
+    <!-- measurements -->
+    <!-- application data -->
+    <data name="horizontalPreviewAxis" value="opticalsize"/>
+    <data name="lineInverted" value="False"/>
+    <data name="lineViewFilled" value="True"/>
+    <data name="lineStacked" value="sequence"/>
+    <data name="generateFontsAtFolder" value="/Users/oct/Documents/GITHUB/EBGarVF/makeVar/designspace_instances/instances"/>
+    <data name="previewtext" value="adhesion"/>
+    <data name="verticalPreviewAxis" value="ytranslowercase"/>
+    <!-- don't generate these glyphs -->
+    <ignore glyphs=""/>
+    <!-- axis definitions -->
+    <axis maximum="912.000000" minimum="406.000000" name="ytransparent" shortname="YTRA">
+        <color a="1.000" b="0.580" g="0.828" r="0.024"/>
+    </axis>
+    <axis maximum="390.000000" minimum="179.000000" name="ytransde" shortname="YTDE">
+        <color a="1.000" b="0.427" g="0.456" r="0.345"/>
+    </axis>
+    <axis maximum="100.000000" minimum="0.000000" name="weight" shortname="wght">
+        <color a="1.000" b="0.391" g="0.396" r="0.500"/>
+    </axis>
+    <axis maximum="100.000000" minimum="0.000000" name="grade" shortname="GRAD">
+        <color a="1.000" b="0.554" g="0.750" r="0.000"/>
+    </axis>
+    <axis maximum="100.000000" minimum="0.000000" name="opticalsize" shortname="opsz">
+        <color a="1.000" b="0.662" g="1.104" r="0.500"/>
+    </axis>
+    <axis maximum="988.000000" minimum="553.000000" name="ytransascender" shortname="YTAS">
+        <color a="1.000" b="0.525" g="0.672" r="0.024"/>
+    </axis>
+    <axis maximum="482.000000" minimum="10.000000" name="xopaque" shortname="XOPQ">
+        <color a="1.000" b="0.694" g="1.226" r="0.905"/>
+    </axis>
+    <axis maximum="150.000000" minimum="40.000000" name="serifheight" shortname="YTSE">
+        <color a="1.000" b="0.686" g="1.196" r="0.794"/>
+    </axis>
+    <axis maximum="100.000000" minimum="0.000000" name="width" shortname="wdth">
+        <color a="1.000" b="0.605" g="0.905" r="0.095"/>
+    </axis>
+    <axis maximum="1038.000000" minimum="90.000000" name="xtransparent" shortname="XTRA">
+        <color a="1.000" b="0.646" g="1.044" r="0.345"/>
+    </axis>
+    <axis maximum="567.000000" minimum="245.000000" name="ytranslowercase" shortname="YTLC">
+        <color a="1.000" b="0.494" g="0.595" r="0.095"/>
+    </axis>
+    <axis maximum="912.000000" minimum="406.000000" name="ytransUC" shortname="YTUC">
+        <color a="1.000" b="0.676" g="1.155" r="0.655"/>
+    </axis>
+    <axis maximum="76.000000" minimum="8.000000" name="yopaque" shortname="YOPQ">
+        <color a="1.000" b="0.355" g="0.345" r="0.655"/>
+    </axis>
+    <!-- master definitions -->
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-Original.ufo" sortorder="0" stylename="Original">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="50.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-GradeMin.ufo" sortorder="1" stylename="GradeMin">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="0.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="50.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EB Garamond VF" filename="instances/EBGaramondVF-DisplayCompressed_Regular.ufo" sortorder="2" stylename="DisplayCompressed_Regular">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="100.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="0.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EB Garamond VF" filename="instances/EBGaramondVF-Caption_Regular.ufo" sortorder="3" stylename="Caption_Regular">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="0.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="100.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EB Garamond VF" filename="instances/EBGaramondVF-Display_Regular.ufo" sortorder="4" stylename="Display_Regular">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="100.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-xopaqueMax.ufo" sortorder="6" stylename="xopaqueMax">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="50.000000"/>
+            <dimension name="xopaque" xvalue="482.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-xopaqueMin.ufo" sortorder="5" stylename="xopaqueMin">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="50.000000"/>
+            <dimension name="xopaque" xvalue="10.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-xtransparentMin.ufo" sortorder="7" stylename="xtransparentMin">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="50.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="90.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-yopaqueMax.ufo" sortorder="9" stylename="yopaqueMax">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="50.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="76.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-yopaqueMin.ufo" sortorder="8" stylename="yopaqueMin">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="50.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="8.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentlcMax.ufo" sortorder="11" stylename="ytransparentlcMax">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="50.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="567.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentlcMin.ufo" sortorder="10" stylename="ytransparentlcMin">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="50.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="245.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-SerifRIseMax.ufo" sortorder="13" stylename="SerifRIseMax">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="50.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="150.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-SerifRiseMin.ufo" sortorder="12" stylename="SerifRiseMin">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="50.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="40.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-GradeMax.ufo" sortorder="14" stylename="GradeMax">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="100.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="50.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentascMax.ufo" sortorder="16" stylename="ytransparentascMax">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="988.000000"/>
+            <dimension name="opticalsize" xvalue="50.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentascMin.ufo" sortorder="15" stylename="ytransparentascMin">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="553.000000"/>
+            <dimension name="opticalsize" xvalue="50.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentdescMax.ufo" sortorder="18" stylename="ytransparentdescMax">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="390.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="50.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentdescMin.ufo" sortorder="17" stylename="ytransparentdescMin">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="179.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="50.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentMax.ufo" sortorder="22" stylename="ytransparentMax">
+        <location>
+            <dimension name="ytransparent" xvalue="912.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="50.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentMin.ufo" sortorder="21" stylename="ytransparentMin">
+        <location>
+            <dimension name="ytransparent" xvalue="406.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="50.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="650.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentUCMax.ufo" sortorder="20" stylename="ytransparentUCMax">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="50.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="912.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="EBGaramondVF" filename="instances/EBGaramondVF-ytransparentUCMin.ufo" sortorder="19" stylename="ytransparentUCMin">
+        <location>
+            <dimension name="ytransparent" xvalue="650.000000"/>
+            <dimension name="ytransde" xvalue="281.000000"/>
+            <dimension name="weight" xvalue="50.000000"/>
+            <dimension name="grade" xvalue="50.000000"/>
+            <dimension name="ytransascender" xvalue="705.000000"/>
+            <dimension name="opticalsize" xvalue="50.000000"/>
+            <dimension name="xopaque" xvalue="80.000000"/>
+            <dimension name="ytranslowercase" xvalue="400.000000"/>
+            <dimension name="width" xvalue="50.000000"/>
+            <dimension name="xtransparent" xvalue="392.000000"/>
+            <dimension name="ytransUC" xvalue="406.000000"/>
+            <dimension name="serifheight" xvalue="100.000000"/>
+            <dimension name="yopaque" xvalue="38.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <!-- instance definitions -->
+    <instance familyname="EB Garamond VF" filename="instances/EBGaramondVF-XTRA402.00_YTUC750.00_opsz14.00_XOPQ88.00_YTAS750.00_YOPQ50.00_wdth402.00_YTSE18.00_YTLC500.00_GRAD88.00_YTRA1000.00_YTDE250.00_wght88.00.ufo" sortorder="23" stylename="XTRA402.00_YTUC750.00_opsz14.00_XOPQ88.00_YTAS750.00_YOPQ50.00_wdth402.00_YTSE18.00_YTLC500.00_GRAD88.00_YTRA1000.00_YTDE250.00_wght88.00">
+        <location>
+            <dimension name="ytransparent" xvalue="1000.000000"/>
+            <dimension name="ytransde" xvalue="250.000000"/>
+            <dimension name="weight" xvalue="88.000000"/>
+            <dimension name="grade" xvalue="88.000000"/>
+            <dimension name="ytransascender" xvalue="750.000000"/>
+            <dimension name="opticalsize" xvalue="14.000000"/>
+            <dimension name="xopaque" xvalue="88.000000"/>
+            <dimension name="ytranslowercase" xvalue="500.000000"/>
+            <dimension name="width" xvalue="250.000000"/>
+            <dimension name="xtransparent" xvalue="402.000000"/>
+            <dimension name="ytransUC" xvalue="750.000000"/>
+            <dimension name="serifheight" xvalue="18.000000"/>
+            <dimension name="yopaque" xvalue="50.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="EB Garamond VF" filename="instances/EBGaramondVF-XTRA402.00_YTUC750.00_opsz14.00_XOPQ88.00_YTAS750.00_YOPQ50.00_wdth402.00_YTSE18.00_YTLC500.00_GRAD88.00_YTRA1000.00_YTDE250.00_wght88.00.ufo" sortorder="24" stylename="XTRA402.00_YTUC750.00_opsz14.00_XOPQ88.00_YTAS750.00_YOPQ50.00_wdth402.00_YTSE18.00_YTLC500.00_GRAD88.00_YTRA1000.00_YTDE250.00_wght88.00">
+        <location>
+            <dimension name="ytransparent" xvalue="1000.000000"/>
+            <dimension name="ytransde" xvalue="250.000000"/>
+            <dimension name="weight" xvalue="88.000000"/>
+            <dimension name="grade" xvalue="116.716886"/>
+            <dimension name="ytransascender" xvalue="750.000000"/>
+            <dimension name="opticalsize" xvalue="14.000000"/>
+            <dimension name="xopaque" xvalue="88.000000"/>
+            <dimension name="ytranslowercase" xvalue="500.000000"/>
+            <dimension name="width" xvalue="250.000000"/>
+            <dimension name="xtransparent" xvalue="402.000000"/>
+            <dimension name="ytransUC" xvalue="750.000000"/>
+            <dimension name="serifheight" xvalue="18.727313"/>
+            <dimension name="yopaque" xvalue="50.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="EB Garamond VF" filename="instances/EBGaramondVF-YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth402.00_wght88.00_opsz14.00_YTSE18.00_YTAS750.00_GRAD88.00.ufo" sortorder="25" stylename="YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth402.00_wght88.00_opsz14.00_YTSE18.00_YTAS750.00_GRAD88.00">
+        <location>
+            <dimension name="ytransparent" xvalue="1000.000000"/>
+            <dimension name="ytransde" xvalue="250.000000"/>
+            <dimension name="weight" xvalue="88.000000"/>
+            <dimension name="grade" xvalue="88.000000"/>
+            <dimension name="ytransascender" xvalue="750.000000"/>
+            <dimension name="opticalsize" xvalue="57.616130"/>
+            <dimension name="xopaque" xvalue="88.000000"/>
+            <dimension name="ytranslowercase" xvalue="500.000000"/>
+            <dimension name="width" xvalue="255.645907"/>
+            <dimension name="xtransparent" xvalue="402.000000"/>
+            <dimension name="ytransUC" xvalue="750.000000"/>
+            <dimension name="serifheight" xvalue="18.000000"/>
+            <dimension name="yopaque" xvalue="50.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="EB Garamond VF" filename="instances/EBGaramondVF-YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth255.65_wght88.00_opsz57.62_YTSE18.00_YTAS750.00_GRAD88.00.ufo" sortorder="26" stylename="YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth255.65_wght88.00_opsz57.62_YTSE18.00_YTAS750.00_GRAD88.00">
+        <location>
+            <dimension name="ytransparent" xvalue="1000.000000"/>
+            <dimension name="ytransde" xvalue="250.000000"/>
+            <dimension name="weight" xvalue="88.000000"/>
+            <dimension name="grade" xvalue="110.956963"/>
+            <dimension name="ytransascender" xvalue="750.000000"/>
+            <dimension name="opticalsize" xvalue="57.616130"/>
+            <dimension name="xopaque" xvalue="88.000000"/>
+            <dimension name="ytranslowercase" xvalue="500.000000"/>
+            <dimension name="width" xvalue="255.645907"/>
+            <dimension name="xtransparent" xvalue="402.000000"/>
+            <dimension name="ytransUC" xvalue="750.000000"/>
+            <dimension name="serifheight" xvalue="18.000000"/>
+            <dimension name="yopaque" xvalue="50.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="EB Garamond VF" filename="instances/EBGaramondVF-YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth402.00_wght88.00_opsz14.00_YTSE18.00_YTAS750.00_GRAD88.00.ufo" sortorder="27" stylename="YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth402.00_wght88.00_opsz14.00_YTSE18.00_YTAS750.00_GRAD88.00">
+        <location>
+            <dimension name="ytransparent" xvalue="1000.000000"/>
+            <dimension name="ytransde" xvalue="250.000000"/>
+            <dimension name="weight" xvalue="88.000000"/>
+            <dimension name="grade" xvalue="88.000000"/>
+            <dimension name="ytransascender" xvalue="750.000000"/>
+            <dimension name="opticalsize" xvalue="72.000000"/>
+            <dimension name="xopaque" xvalue="88.000000"/>
+            <dimension name="ytranslowercase" xvalue="500.000000"/>
+            <dimension name="width" xvalue="402.000000"/>
+            <dimension name="xtransparent" xvalue="402.000000"/>
+            <dimension name="ytransUC" xvalue="750.000000"/>
+            <dimension name="serifheight" xvalue="18.000000"/>
+            <dimension name="yopaque" xvalue="50.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="EB Garamond VF" filename="instances/EBGaramondVF-YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth402.00_wght88.00_opsz14.00_YTSE18.00_YTAS750.00_GRAD88.00.ufo" sortorder="28" stylename="YOPQ50.00_YTLC500.00_XOPQ88.00_YTRA1000.00_YTDE250.00_XTRA402.00_YTUC750.00_wdth402.00_wght88.00_opsz14.00_YTSE18.00_YTAS750.00_GRAD88.00">
+        <location>
+            <dimension name="ytransparent" xvalue="1000.000000"/>
+            <dimension name="ytransde" xvalue="250.000000"/>
+            <dimension name="weight" xvalue="88.000000"/>
+            <dimension name="grade" xvalue="127.748054"/>
+            <dimension name="ytransascender" xvalue="750.000000"/>
+            <dimension name="opticalsize" xvalue="14.000000"/>
+            <dimension name="xopaque" xvalue="195.895931"/>
+            <dimension name="ytranslowercase" xvalue="500.000000"/>
+            <dimension name="width" xvalue="221.111205"/>
+            <dimension name="xtransparent" xvalue="402.000000"/>
+            <dimension name="ytransUC" xvalue="750.000000"/>
+            <dimension name="serifheight" xvalue="0.000000"/>
+            <dimension name="yopaque" xvalue="50.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+</designspace>

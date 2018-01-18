@@ -5,12 +5,12 @@ Generate variable font using
 ---------------------------------------------------------
 INFO:fontmake.font_project:Building interpolation-compatible TTFs
 INFO:fontmake.font_project:Converting curves compatibly
-INFO:cu2qu.ufo:New spline lengths: 1: 47, 2: 1044, 3: 420, 4: 247, 5: 43, 6: 9, 8: 2
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-yopaqueMin
+INFO:cu2qu.ufo:New spline lengths: 1: 45, 2: 1036, 3: 428, 4: 248, 5: 44, 6: 9, 8: 2
+INFO:fontmake.font_project:Saving TTF for EBGaramondVF-xtransparentMin
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
 WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-yopaqueMax
+INFO:fontmake.font_project:Saving TTF for EBGaramondVF-yopaqueMin
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
 WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
@@ -22,7 +22,11 @@ INFO:fontmake.font_project:Saving TTF for EBGaramondVF-GradeMin
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
 WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-DisplayCompressed_Regular
+INFO:fontmake.font_project:Saving TTF for EBGaramondVF-Xbold
+WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
+WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
+WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
+INFO:fontmake.font_project:Saving TTF for EBGaramondVF-GradeMax
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
 WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
@@ -42,7 +46,7 @@ INFO:fontmake.font_project:Saving TTF for EBGaramondVF-xopaqueMax
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
 WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-xtransparentMin
+INFO:fontmake.font_project:Saving TTF for EBGaramondVF-ytransparentlcMax
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
 WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
@@ -50,15 +54,11 @@ INFO:fontmake.font_project:Saving TTF for EBGaramondVF-SerifRiseMin
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
 WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-SerifRIseMax
+INFO:fontmake.font_project:Saving TTF for EBGaramondVF-yopaqueMax
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
 WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
 INFO:fontmake.font_project:Saving TTF for EBGaramondVF-ytransparentlcMin
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
-WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-ytransparentlcMax
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
 WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
@@ -70,7 +70,7 @@ INFO:fontmake.font_project:Saving TTF for EBGaramondVF-ytransparentdescMin
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
 WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
-INFO:fontmake.font_project:Saving TTF for EBGaramondVF-GradeMax
+INFO:fontmake.font_project:Saving TTF for EBGaramondVF-SerifRIseMax
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
 WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
@@ -83,6 +83,10 @@ WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UP
 WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
 INFO:fontmake.font_project:Saving TTF for EBGaramondVF-ytransparentUCMin
+WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
+WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
+WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
+INFO:fontmake.font_project:Saving TTF for EBGaramondVF-Compressed_Regular
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
 WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM * -0.075
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
@@ -100,7 +104,7 @@ WARNING:ufo2ft.fontInfoData:Underline position not set in UFO, defaulting to UPM
 WARNING:ufo2ft.fontInfoData:Underline thickness not set in UFO, defaulting to UPM * 0.05
 INFO:fontmake.font_project:Building variable font /Users/oct/Documents/GITHUB/EBGarVF/makeVar/designspace_instances/FullHouse_space.ttf
 INFO:fontTools.varLib:Axes:
-OrderedDict([('opticalsize', {u'map': None, 'name': 'opticalsize', 'default': 14.0, 'tag': 'opsz', 'maximum': 72.0, 'minimum': 10.0, u'labelname': {u'en': 'opticalsize'}}), ('ytransascender', {u'map': None, 'name': 'ytransascender', 'default': 750.0, 'tag': 'YTAS', 'maximum': 850.0, 'minimum': 650.0, u'labelname': {u'en': 'ytransascender'}}), ('ytransUC', {u'map': None, 'name': 'ytransUC', 'default': 750.0, 'tag': 'YTUC', 'maximum': 950.0, 'minimum': 650.0, u'labelname': {u'en': 'ytransUC'}}), ('width', {u'map': None, 'name': 'width', 'default': 402.0, 'tag': 'wdth', 'maximum': 402.0, 'minimum': 60.0, u'labelname': {u'en': u'Width'}}), ('grade', {u'map': None, 'name': 'grade', 'default': 88.0, 'tag': 'GRAD', 'maximum': 150.0, 'minimum': 88.0, u'labelname': {u'en': 'grade'}}), ('weight', {u'map': None, 'name': 'weight', 'default': 88.0, 'tag': 'wght', 'maximum': 250.0, 'minimum': 38.0, u'labelname': {u'en': u'Weight'}}), ('xopaque', {u'map': None, 'name': 'xopaque', 'default': 88.0, 'tag': 'XOPQ', 'maximum': 500.0, 'minimum': 5.0, u'labelname': {u'en': 'xopaque'}}), ('xtransparent', {u'map': None, 'name': 'xtransparent', 'default': 402.0, 'tag': 'XTRA', 'maximum': 402.0, 'minimum': 42.0, u'labelname': {u'en': 'xtransparent'}}), ('yopaque', {u'map': None, 'name': 'yopaque', 'default': 50.0, 'tag': 'YOPQ', 'maximum': 85.0, 'minimum': 4.0, u'labelname': {u'en': 'yopaque'}}), ('ytranslowercase', {u'map': None, 'name': 'ytranslowercase', 'default': 500.0, 'tag': 'YTLC', 'maximum': 600.0, 'minimum': 445.0, u'labelname': {u'en': 'ytranslowercase'}}), ('serifheight', {u'map': None, 'name': 'serifheight', 'default': 18.0, 'tag': 'YTSE', 'maximum': 48.0, 'minimum': 0.0, u'labelname': {u'en': 'serifheight'}}), ('ytransde', {u'map': None, 'name': 'ytransde', 'default': 250.0, 'tag': 'YTDE', 'maximum': 350.0, 'minimum': 150.0, u'labelname': {u'en': 'ytransde'}}), ('ytransparent', {u'map': None, 'name': 'ytransparent', 'default': 1000.0, 'tag': 'YTRA', 'maximum': 1200.0, 'minimum': 800.0, u'labelname': {u'en': 'ytransparent'}})])
+OrderedDict([('grade', {u'map': None, 'name': 'grade', 'default': 88.0, 'tag': 'GRAD', 'maximum': 150.0, 'minimum': 88.0, u'labelname': {u'en': 'grade'}}), ('serifheight', {u'map': None, 'name': 'serifheight', 'default': 18.0, 'tag': 'YTSE', 'maximum': 48.0, 'minimum': 0.0, u'labelname': {u'en': 'serifheight'}}), ('weight', {u'map': None, 'name': 'weight', 'default': 88.0, 'tag': 'wght', 'maximum': 250.0, 'minimum': 38.0, u'labelname': {u'en': u'Weight'}}), ('ytransascender', {u'map': None, 'name': 'ytransascender', 'default': 750.0, 'tag': 'YTAS', 'maximum': 850.0, 'minimum': 650.0, u'labelname': {u'en': 'ytransascender'}}), ('ytransde', {u'map': None, 'name': 'ytransde', 'default': 250.0, 'tag': 'YTDE', 'maximum': 350.0, 'minimum': 150.0, u'labelname': {u'en': 'ytransde'}}), ('ytranslowercase', {u'map': None, 'name': 'ytranslowercase', 'default': 500.0, 'tag': 'YTLC', 'maximum': 600.0, 'minimum': 445.0, u'labelname': {u'en': 'ytranslowercase'}}), ('yopaque', {u'map': None, 'name': 'yopaque', 'default': 50.0, 'tag': 'YOPQ', 'maximum': 85.0, 'minimum': 4.0, u'labelname': {u'en': 'yopaque'}}), ('xopaque', {u'map': None, 'name': 'xopaque', 'default': 88.0, 'tag': 'XOPQ', 'maximum': 500.0, 'minimum': 5.0, u'labelname': {u'en': 'xopaque'}}), ('width', {u'map': None, 'name': 'width', 'default': 402.0, 'tag': 'wdth', 'maximum': 402.0, 'minimum': 60.0, u'labelname': {u'en': u'Width'}}), ('ytransparent', {u'map': None, 'name': 'ytransparent', 'default': 1000.0, 'tag': 'YTRA', 'maximum': 1200.0, 'minimum': 800.0, u'labelname': {u'en': 'ytransparent'}}), ('ytransUC', {u'map': None, 'name': 'ytransUC', 'default': 750.0, 'tag': 'YTUC', 'maximum': 950.0, 'minimum': 650.0, u'labelname': {u'en': 'ytransUC'}}), ('xtransparent', {u'map': None, 'name': 'xtransparent', 'default': 402.0, 'tag': 'XTRA', 'maximum': 402.0, 'minimum': 42.0, u'labelname': {u'en': 'xtransparent'}}), ('opticalsize', {u'map': None, 'name': 'opticalsize', 'default': 14.0, 'tag': 'opsz', 'maximum': 72.0, 'minimum': 10.0, u'labelname': {u'en': 'opticalsize'}})])
 INFO:fontTools.varLib:Internal master locations:
 [{'grade': 88.0,
   'opticalsize': 14.0,
@@ -131,8 +135,21 @@ INFO:fontTools.varLib:Internal master locations:
  {'grade': 88.0,
   'opticalsize': 14.0,
   'serifheight': 18.0,
+  'weight': 250.0,
+  'width': 402.0,
+  'xopaque': 88.0,
+  'xtransparent': 402.0,
+  'yopaque': 50.0,
+  'ytransUC': 750.0,
+  'ytransascender': 750.0,
+  'ytransde': 250.0,
+  'ytranslowercase': 500.0,
+  'ytransparent': 1000.0},
+ {'grade': 150.0,
+  'opticalsize': 14.0,
+  'serifheight': 18.0,
   'weight': 88.0,
-  'width': 60.0,
+  'width': 402.0,
   'xopaque': 88.0,
   'xtransparent': 402.0,
   'yopaque': 50.0,
@@ -284,19 +301,6 @@ INFO:fontTools.varLib:Internal master locations:
   'ytransde': 250.0,
   'ytranslowercase': 500.0,
   'ytransparent': 1000.0},
- {'grade': 150.0,
-  'opticalsize': 14.0,
-  'serifheight': 18.0,
-  'weight': 88.0,
-  'width': 402.0,
-  'xopaque': 88.0,
-  'xtransparent': 402.0,
-  'yopaque': 50.0,
-  'ytransUC': 750.0,
-  'ytransascender': 750.0,
-  'ytransde': 250.0,
-  'ytranslowercase': 500.0,
-  'ytransparent': 1000.0},
  {'grade': 88.0,
   'opticalsize': 14.0,
   'serifheight': 18.0,
@@ -400,7 +404,20 @@ INFO:fontTools.varLib:Internal master locations:
   'ytransascender': 750.0,
   'ytransde': 250.0,
   'ytranslowercase': 500.0,
-  'ytransparent': 1200.0}]
+  'ytransparent': 1200.0},
+ {'grade': 88.0,
+  'opticalsize': 14.0,
+  'serifheight': 18.0,
+  'weight': 88.0,
+  'width': 60.0,
+  'xopaque': 88.0,
+  'xtransparent': 402.0,
+  'yopaque': 50.0,
+  'ytransUC': 750.0,
+  'ytransascender': 750.0,
+  'ytransde': 250.0,
+  'ytranslowercase': 500.0,
+  'ytransparent': 1000.0}]
 INFO:fontTools.varLib:Internal axis supports:
 {'grade': [88.0, 88.0, 150.0],
  'opticalsize': [10.0, 14.0, 72.0],
@@ -445,8 +462,21 @@ INFO:fontTools.varLib:Normalized master locations:
  {'grade': 0.0,
   'opticalsize': 0.0,
   'serifheight': 0.0,
+  'weight': 1.0,
+  'width': 0.0,
+  'xopaque': 0.0,
+  'xtransparent': 0.0,
+  'yopaque': 0.0,
+  'ytransUC': 0.0,
+  'ytransascender': 0.0,
+  'ytransde': 0.0,
+  'ytranslowercase': 0.0,
+  'ytransparent': 0.0},
+ {'grade': 1.0,
+  'opticalsize': 0.0,
+  'serifheight': 0.0,
   'weight': 0.0,
-  'width': -1.0,
+  'width': 0.0,
   'xopaque': 0.0,
   'xtransparent': 0.0,
   'yopaque': 0.0,
@@ -598,19 +628,6 @@ INFO:fontTools.varLib:Normalized master locations:
   'ytransde': 0.0,
   'ytranslowercase': 0.0,
   'ytransparent': 0.0},
- {'grade': 1.0,
-  'opticalsize': 0.0,
-  'serifheight': 0.0,
-  'weight': 0.0,
-  'width': 0.0,
-  'xopaque': 0.0,
-  'xtransparent': 0.0,
-  'yopaque': 0.0,
-  'ytransUC': 0.0,
-  'ytransascender': 0.0,
-  'ytransde': 0.0,
-  'ytranslowercase': 0.0,
-  'ytransparent': 0.0},
  {'grade': 0.0,
   'opticalsize': 0.0,
   'serifheight': 0.0,
@@ -714,7 +731,20 @@ INFO:fontTools.varLib:Normalized master locations:
   'ytransascender': 0.0,
   'ytransde': 0.0,
   'ytranslowercase': 0.0,
-  'ytransparent': 1.0}]
+  'ytransparent': 1.0},
+ {'grade': 0.0,
+  'opticalsize': 0.0,
+  'serifheight': 0.0,
+  'weight': 0.0,
+  'width': -1.0,
+  'xopaque': 0.0,
+  'xtransparent': 0.0,
+  'yopaque': 0.0,
+  'ytransUC': 0.0,
+  'ytransascender': 0.0,
+  'ytransde': 0.0,
+  'ytranslowercase': 0.0,
+  'ytransparent': 0.0}]
 INFO:fontTools.varLib:Index of base master: 0
 INFO:fontTools.varLib:Building variable font
 INFO:fontTools.varLib:Loading master fonts
@@ -723,13 +753,9 @@ INFO:fontTools.varLib:Generating avar
 INFO:fontTools.varLib:No need for avar
 INFO:fontTools.varLib:Building variations tables
 INFO:fontTools.varLib:Generating MVAR
-INFO:fontTools.varLib:	cpht: OS/2.sCapHeight	[650, 650, 575, 700, 600, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 406, 912, 406, 912]
-INFO:fontTools.varLib:	hasc: OS/2.sTypoAscender	[691, 691, 650, 800, 640, 691, 691, 691, 691, 691, 691, 691, 691, 691, 691, 539, 974, 691, 691, 691, 691, 429, 974]
-INFO:fontTools.varLib:	hdsc: OS/2.sTypoDescender	[-281, -281, -200, -340, -200, -281, -281, -281, -281, -281, -281, -281, -281, -281, -281, -281, -281, -179, -390, -281, -281, -179, -390]
-INFO:fontTools.varLib:	xhgt: OS/2.sxHeight	[400, 400, 316, 390, 430, 400, 400, 400, 400, 400, 245, 567, 400, 400, 400, 400, 400, 400, 400, 400, 400, 245, 567]
-INFO:fontTools.varLib:	hcla: OS/2.usWinAscent	[706, 706, 665, 815, 655, 706, 706, 706, 706, 706, 706, 706, 706, 706, 706, 554, 989, 706, 706, 706, 706, 444, 989]
-INFO:fontTools.varLib:	hcld: OS/2.usWinDescent	[285, 285, 204, 507, 204, 285, 285, 285, 285, 285, 285, 285, 285, 285, 285, 285, 285, 183, 695, 285, 285, 183, 394]
-INFO:fontTools.varLib:	stro: OS/2.yStrikeoutPosition	[240, 240, 190, 234, 258, 240, 240, 240, 240, 240, 147, 340, 240, 240, 240, 240, 240, 240, 240, 240, 240, 147, 340]
+INFO:fontTools.varLib:	cpht: OS/2.sCapHeight	[650, 650, 650, 650, 700, 600, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 406, 912, 406, 912, 650]
+INFO:fontTools.varLib:	xhgt: OS/2.sxHeight	[400, 400, 450, 400, 390, 430, 400, 400, 400, 400, 400, 245, 567, 400, 400, 400, 400, 400, 400, 400, 400, 245, 567, 400]
+INFO:fontTools.varLib:	stro: OS/2.yStrikeoutPosition	[240, 240, 270, 240, 234, 258, 240, 240, 240, 240, 240, 147, 340, 240, 240, 240, 240, 240, 240, 240, 240, 147, 340, 240]
 INFO:fontTools.varLib:Generating HVAR
 INFO:fontTools.varLib:Merging OpenType Layout tables
 INFO:fontTools.varLib:Generating gvar

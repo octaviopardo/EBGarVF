@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nine" format="1">
-  <advance width="631"/>
+  <advance width="629"/>
   <unicode hex="0039"/>
   <outline>
-    <component base="six" xScale="-1.0" yScale="-1.0" xOffset="631" yOffset="626"/>
+    <component base="six" xScale="-1.0" yScale="-1.0" xOffset="629" yOffset="626"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-01-15 17:24:32 +0000</string>
+      <string>2018-01-18 12:22:47 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=|six</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
